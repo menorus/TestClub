@@ -1,0 +1,5 @@
+C:/Users/79877/source/repos/nado/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/79877/source/repos/nado/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/79877/source/repos/nado/out/build/x64-debug/nado/CMakeFiles/nado.dir
+C:/Users/79877/source/repos/nado/out/build/x64-debug/nado/CMakeFiles/edit_cache.dir
+C:/Users/79877/source/repos/nado/out/build/x64-debug/nado/CMakeFiles/rebuild_cache.dir
